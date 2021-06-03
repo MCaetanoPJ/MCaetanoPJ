@@ -9,7 +9,6 @@
 <hr>
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&count_private=true&theme=chartreuse-dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCaetanoPJ&show_icons=true&theme=chartreuse-dark)
 
 <hr>
 <h3><b>O que estou estudando agora ?</b></h3>
