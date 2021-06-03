@@ -8,7 +8,7 @@
 <h3><b>💡 Essas são algumas das linguagens que costumo usar</b></h3>
 <hr>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&count_private=true&theme=chartreuse-dark)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&count_private=true&theme=chartreuse-dark)z
 
 <hr>
 <h3><b>O que estou estudando agora ?</b></h3>
