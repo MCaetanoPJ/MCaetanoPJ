@@ -1,7 +1,7 @@
 <hr>
 <h3>👋 Oi, eu sou o Marcos</h3>
 
-- 📘 Desenvolvedor Back-End Jr em sistemas ERP (Web e Desktop)
+- 📘 Desenvolvedor C# Back-End Jr em sistemas ERP (Web e Desktop)
 - 💻 Formado em Ciência da Computação
 - 👀 No momento aprofundando cada vez mais no desenvolvimento de APIs REST
 - Me chame no <a href="https://www.linkedin.com/in/marcos-caetano/" rel="nofollow"><img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a> caso queira falar sobre projetos
@@ -20,7 +20,7 @@
 
 <hr>
 
-![Snake animation](https://github.com/LucasFernandesBrazil/LucasFernandesBrazil/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MCaetanoPJ/MCaetanoPJ/blob/main/github-MCaetanoPJ-contribution.svg)
 
 <hr>
 
@@ -41,5 +41,6 @@ You can click the Preview link to take a look at your changes.
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&count_private=true&theme=chartreuse-dark)
 
 //Exibir a animação da snake
+Link para baixar o GIF especifico para cada usuário: https://platane.github.io/snk/
 ![Snake animation](https://github.com/LucasFernandesBrazil/LucasFernandesBrazil/blob/output/github-contribution-grid-snake.svg)
 --->
