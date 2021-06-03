@@ -1,8 +1,3 @@
-<hr>
-
-![Snake animation](https://github.com/MCaetanoPJ/MCaetanoPJ/blob/main/github-MCaetanoPJ-contribution.svg)
-
-<hr>
 <h3>👋 Oi, eu sou o Marcos</h3>
 
 - 📘 Desenvolvedor C# Back-End Jr em sistemas ERP (Web e Desktop)
