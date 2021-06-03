@@ -1,4 +1,4 @@
-<h3>👋 Oi, eu sou o Marcos</h3>
+<h3>👋 Olá Visitante, eu sou o Marcos</h3>
 
 - 💻 Formado em Ciência da Computação
 - 📘 Atuando como Desenvolvedor C# Back-End Jr em sistemas ERP (Web e Desktop)
@@ -11,11 +11,17 @@
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&count_private=true&theme=chartreuse-dark)
 
 <hr>
-<h3><b>Projetos pessoais que mais me orgulho ?</b></h3>
+<h3><b>O que estou estudando agora ?</b></h3>
+
+- <b>Sendo desenvolvido em C#</b>, O repositório https://github.com/MCaetanoPJ/API_REST possui meu projeto mais recente, onde estou desenvolvendo uma API REST no padrão MVC (Model, View e Controller) usando o ORM Entity Framework Core e consultas Linq para retornar um JSON para uma futura Web API, esse projeto ainda está em andamento.
+
+<hr>
+
+<h3><b>Alguns projetos pessoais que mais me orgulho ?</b></h3>
 
 - <b>Desenvolvido em C#</b>, O repositório com o nome https://github.com/MCaetanoPJ/WinForm_Assistente_Virtual onde desenvolvi uma assistente pessoal para permitir que eu converse com meu computador e executar meu pedidos (desde que o pedido exista no banco de dados dela), além de ter controle total do teclado do meu computador, ou seja, quando preciso fazer aquela função repetitiva especifíca, só pedir que ela já começa a trabalhar, ela também consegue executar funções de teclas dentro de alguns jogos online.
 
-- <b>Desenvolvido em Python</b>, O repositório https://github.com/MCaetanoPJ/Reconhecimento-Facial tem um outro projeto que desenvolvi na faculdade, onde o sistema consegue fazer o reconhecimento Facial e exibir o nome da pessoa reconhecida tudo em tempo real, podendo ser aplicado também em vídeos.
+- <b>Desenvolvido em Python</b>, O repositório https://github.com/MCaetanoPJ/Reconhecimento-Facial possui um projeto que desenvolvi na faculdade, onde o sistema consegue realizar o reconhecimento Facial e exibir o nome da pessoa reconhecida tudo em tempo real, podendo ser aplicado também em vídeos.
 
 - <b>Desenvolvido em C++</b>, O repositório https://github.com/MCaetanoPJ/Temporizador-Arduino tem um Script que desenvolvi para o arduino Uno R3, que permite inserir um Temporizador que executa internamente e ativa determinada porta digital ou desativa em horário específico, por meio de um contador de milésimo.
 
