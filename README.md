@@ -9,8 +9,7 @@
 <h3><b>💡 Essas são algumas das linguagens que costumo usar</b></h3>
 <hr>
 
-![Snake animation](https://github.com/LucasFernandesBrazil/LucasFernandesBrazil/blob/output/github-contribution-grid-snake.svg)
-
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&count_private=true&theme=chartreuse-dark)
 
 <hr>
 <h3><b>Projetos pessoais que mais me orgulho ?</b></h3>
@@ -18,6 +17,10 @@
 - <b>Desenvolvido em C#</b>, O repositório com o nome https://github.com/MCaetanoPJ/WinForm_Assistente_Virtual onde desenvolvi uma assistente pessoal para permitir que eu converse com meu computador e executar meu pedidos (desde que o pedido exista no banco de dados dela), além de ter controle total do teclado do meu computador, ou seja, quando preciso fazer aquela função repetitiva especifíca, só pedir que ela já começa a trabalhar, ela também consegue executar funções de teclas dentro de alguns jogos online.
 
 - <b>Desenvolvido em Python</b>, O repositório https://github.com/MCaetanoPJ/Reconhecimento-Facial tem um outro projeto que desenvolvi na faculdade, onde o sistema consegue fazer o reconhecimento Facial e exibir o nome da pessoa reconhecida tudo em tempo real, podendo ser aplicado também em vídeos.
+
+<hr>
+
+![Snake animation](https://github.com/LucasFernandesBrazil/LucasFernandesBrazil/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 
