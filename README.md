@@ -9,7 +9,8 @@
 <h3><b>💡 Essas são algumas das linguagens que costumo usar</b></h3>
 <hr>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&count_private=true&theme=chartreuse-dark)
+![Snake animation](https://github.com/LucasFernandesBrazil/LucasFernandesBrazil/blob/output/github-contribution-grid-snake.svg)
+
 
 <hr>
 <h3><b>Projetos pessoais que mais me orgulho ?</b></h3>
