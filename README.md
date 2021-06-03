@@ -17,6 +17,10 @@
 
 - <b>Desenvolvido em Python</b>, O repositório https://github.com/MCaetanoPJ/Reconhecimento-Facial tem um outro projeto que desenvolvi na faculdade, onde o sistema consegue fazer o reconhecimento Facial e exibir o nome da pessoa reconhecida tudo em tempo real, podendo ser aplicado também em vídeos.
 
+- <b>Desenvolvido em C++</b>, O repositório https://github.com/MCaetanoPJ/Temporizador-Arduino tem um Script que desenvolvi para o arduino Uno R3, que permite inserir um Temporizador que executa internamente e ativa determinada porta digital ou desativa em horário específico, por meio de um contador de milésimo.
+
+- <b>Desenvolvido em Java</b>, O repositório https://github.com/MCaetanoPJ/Algoritmos-de-Ordenacao-com-Imagens possui um projeto que desenvolvi na faculdade para análise de performance usando algoritmos de ordenação Insert Sort, Buble Sort, Select Sort e Quick Sort, ao adicionar imagens no banco de dados e ordenar suas posições dentro do mesmo.
+
 <hr>
 
 ![Snake animation](https://github.com/MCaetanoPJ/MCaetanoPJ/blob/main/github-MCaetanoPJ-contribution.svg)
