@@ -19,6 +19,11 @@
 
 <h3><b>Alguns projetos pessoais que mais me orgulho ?</b></h3>
 
+
+
+- <b>Desenvolvido em C#</b>, O repositório com o nome https://github.com/MCaetanoPJ/GeradorLinhaDigitavelBoletoItau possui o projeto no qual gera uma sequência de números para um boleto do banco Itaú, a documentação necessária para montar toda a lógica necessária e os calcúlos necessários foram obtidos do próprio site do do Itaú no link https://download.itau.com.br/bankline/cobranca_cnab240.pdf, o projeto foi desenvolvido no console do C#, visando facilitar testes e otimizar a velocidade de desenvolvimento focando exclusivamente nos calculos e lógica,
+OBS: para o projeto funcionar é necessário informar alguns dados antes, exibidos ao iniciar o projeto
+
 - <b>Desenvolvido em C#</b>, O repositório com o nome https://github.com/MCaetanoPJ/WinForm_Assistente_Virtual onde desenvolvi uma assistente pessoal para permitir que eu converse com meu computador e executar meu pedidos (desde que o pedido exista no banco de dados dela), além de ter controle total do teclado do meu computador, ou seja, quando preciso fazer aquela função repetitiva especifíca, só pedir que ela já começa a trabalhar, ela também consegue executar funções de teclas dentro de alguns jogos online.
 
 - <b>Desenvolvido em Python</b>, O repositório https://github.com/MCaetanoPJ/Reconhecimento-Facial possui um projeto que desenvolvi na faculdade, onde o sistema consegue realizar o reconhecimento Facial e exibir o nome da pessoa reconhecida tudo em tempo real, podendo ser aplicado também em vídeos.
