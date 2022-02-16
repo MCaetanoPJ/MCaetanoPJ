@@ -13,7 +13,7 @@
 <hr>
 <h3><b>O que estou estudando agora ?</b></h3>
 
-
+- <b>Sendo desenvolvido em React Js</b>, Um projeto apenas visual, clonando algumas páginas do site da NetFlix para aprimorar os conhecimentos com React, esse projeto não possui integração com nenhuma API.
 
 <hr>
 
