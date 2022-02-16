@@ -2,7 +2,7 @@
 
 - 💻 Formado em Ciência da Computação
 - 📘 Atuando como Desenvolvedor C# FullStack em Banco Digital
-- 👀 Estudando o desenvolvimento de APIs visando alta performance e usando Clean Code
+- 👀 Estudando React Js para aprimorar minhas habilidades no front-end
 - Me chame no <a href="https://www.linkedin.com/in/marcos-caetano/" rel="nofollow"><img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a> caso queira falar sobre projetos
 
 <h3><b>💡 Essas são algumas das linguagens que costumo usar</b></h3>
@@ -13,13 +13,13 @@
 <hr>
 <h3><b>O que estou estudando agora ?</b></h3>
 
-- <b>Sendo desenvolvido em C#</b>, O repositório https://github.com/MCaetanoPJ/API_REST possui meu projeto mais recente, onde estou desenvolvendo uma API REST no padrão MVC (Model, View e Controller) usando o ORM Entity Framework Core e consultas Linq para retornar um JSON para uma futura Web API, esse projeto ainda está em andamento.
+
 
 <hr>
 
 <h3><b>Alguns projetos pessoais que mais me orgulho ?</b></h3>
 
-
+- <b>Sendo desenvolvido em C#</b>, O repositório https://github.com/MCaetanoPJ/API_REST possui o projeto, onde estou desenvolvendo uma WebAPI REST no padrão MVC (Model, View e Controller) usando o ORM Entity Framework Core e consultas Linq.
 
 - <b>Desenvolvido em C#</b>, O repositório com o nome https://github.com/MCaetanoPJ/GeradorLinhaDigitavelBoletoItau possui o projeto no qual gera uma sequência de números para um boleto do banco Itaú, a documentação necessária para montar toda a lógica necessária e os calcúlos necessários foram obtidos do próprio site do do Itaú no link https://download.itau.com.br/bankline/cobranca_cnab240.pdf, o projeto foi desenvolvido no console do C#, visando facilitar testes e otimizar a velocidade de desenvolvimento focando exclusivamente nos calculos e lógica,
 OBS: para o projeto funcionar é necessário informar alguns dados antes, exibidos ao iniciar o projeto
