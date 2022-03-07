@@ -3,6 +3,7 @@
 - 💻 Formado em Ciência da Computação
 - 📘 Atuando como Desenvolvedor C# FullStack em Banco Digital
 - 👀 Estudando React Js para aprimorar minhas habilidades no front-end
+- 👀 Estudando Node Js para aprimorar minhas habilidades no Back-end
 - Me chame no <a href="https://www.linkedin.com/in/marcos-caetano/" rel="nofollow"><img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a> caso queira falar sobre projetos
 
 <h3><b>💡 Essas são algumas das linguagens que costumo usar</b></h3>
@@ -19,7 +20,7 @@
 
 <hr>
 
-<h3><b>Alguns projetos pessoais que mais satisfatório de criar ?</b></h3>
+<h3><b>Alguns projetos pessoais criados por Hobby ?</b></h3>
 
 - <b>Sendo desenvolvido em C#</b>, O repositório https://github.com/MCaetanoPJ/API_REST possui o projeto, onde estou desenvolvendo uma WebAPI REST no padrão MVC (Model, View e Controller) usando o ORM Entity Framework Core e consultas Linq.
 
