@@ -15,9 +15,11 @@
 
 - <b>Sendo desenvolvido em React Js</b>, Um projeto apenas visual, clonando algumas páginas do site da NetFlix para aprimorar os conhecimentos com React, esse projeto não possui integração com nenhuma API.
 
+- <b>Sendo desenvolvido em Node Js</b>, Um projeto simples no BackEnd uma API RestFul com endpoint de CRUD, para aprimorar os conhecimentos com Node Js.
+
 <hr>
 
-<h3><b>Alguns projetos pessoais que mais me orgulho ?</b></h3>
+<h3><b>Alguns projetos pessoais que mais satisfatório de criar ?</b></h3>
 
 - <b>Sendo desenvolvido em C#</b>, O repositório https://github.com/MCaetanoPJ/API_REST possui o projeto, onde estou desenvolvendo uma WebAPI REST no padrão MVC (Model, View e Controller) usando o ORM Entity Framework Core e consultas Linq.
 
