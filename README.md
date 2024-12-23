@@ -1,56 +1,62 @@
-<h3>👋 Olá Visitante, eu sou o Marcos</h3>
+<h3>👋 Olá, eu sou o Marcos</h3>
 
-- 💻 Formado em Ciência da Computação
-- 📘 Atuando como Desenvolvedor C# FullStack em Banco Digital
-- 👀 Estudando React Js para aprimorar minhas habilidades no front-end
-- 👀 Estudando Node Js para aprimorar minhas habilidades no Back-end
-- Me chame no <a href="https://www.linkedin.com/in/marcos-caetano/" rel="nofollow"><img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a> caso queira falar sobre projetos
+- 💻 **Desenvolvedor Sênior** com quase 8 anos de experiência em desenvolvimento de software.
+- 🏆 **Especialista em Backend** com experiência em **C#**, **.NET Core**, **SQL**, **PostgreSQL**, e **RabbitMQ**.
+- 📘 **Pós-graduando em Engenharia de Software** pela USP.
+- 👨‍💻 Atuando atualmente em **Banco Digital**, lidando com sistemas financeiros complexos.
+- 🌍 Em constante aprendizado, atualmente aprimorando habilidades em **React** e **Node.js**.
 
-<h3><b>💡 Essas são algumas das linguagens que costumo usar</b></h3>
+Se você deseja conversar sobre projetos ou colaborar, me encontre no [LinkedIn](https://www.linkedin.com/in/marcos-caetano/).
+
+---
+
+<h3><b>💡 Algumas das tecnologias que utilizo no meu dia a dia</b></h3>
 <hr>
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&count_private=true&theme=chartreuse-dark)
 
 <hr>
 
-<h3><b>Alguns projetos pessoais criados por Hobby ?</b></h3>
+<h3><b>Projetos Notáveis</b></h3>
 
-- <b>Sendo desenvolvido em C#</b>, O repositório https://github.com/MCaetanoPJ/API_REST possui o projeto, onde estou desenvolvendo uma WebAPI REST no padrão MVC (Model, View e Controller) usando o ORM Entity Framework Core e consultas Linq.
+- **API para Gestão de Saúde (Sonda IT)**  
+  Desenvolvi e liderei a criação de uma **API escalável** para o **Ministério da Saúde de Pernambuco**, suportando **9 milhões de usuários**. Utilizando **RabbitMQ**, **Hangfire** e integrações com bancos de dados como **SQL Server**, **PostgreSQL** e **OracleDB**.
 
-- <b>Desenvolvido em C#</b>, O repositório com o nome https://github.com/MCaetanoPJ/GeradorLinhaDigitavelBoletoItau possui o projeto no qual gera uma sequência de números para um boleto do banco Itaú, a documentação necessária para montar toda a lógica necessária e os calcúlos necessários foram obtidos do próprio site do do Itaú no link https://download.itau.com.br/bankline/cobranca_cnab240.pdf, o projeto foi desenvolvido no console do C#, visando facilitar testes e otimizar a velocidade de desenvolvimento focando exclusivamente nos calculos e lógica,
-OBS: para o projeto funcionar é necessário informar alguns dados antes, exibidos ao iniciar o projeto
+- **Sistema Anti-Fraude (Grupo Marajó)**  
+  Arquitetura de um sistema de **prevenção de fraudes** em abastecimentos de caminhões, implementando controles financeiros e integrando com sistemas de **frota de caminhões**.
 
-- <b>Desenvolvido em C#</b>, O repositório com o nome https://github.com/MCaetanoPJ/WinForm_Assistente_Virtual onde desenvolvi uma assistente pessoal para permitir que eu converse com meu computador e executar meu pedidos (desde que o pedido exista no banco de dados dela), além de ter controle total do teclado do meu computador, ou seja, quando preciso fazer aquela função repetitiva especifíca, só pedir que ela já começa a trabalhar, ela também consegue executar funções de teclas dentro de alguns jogos online.
+- **Migração e Reestruturação de Banco de Dados (Vetor Soluções)**  
+  Realizei a **migração de um sistema legado** de **.NET desktop** para **.NET Core**, e a reestruturação do banco de dados de **SQL Server** para **PostgreSQL**, com sucesso em 6 meses.
 
-- <b>Desenvolvido em Python</b>, O repositório https://github.com/MCaetanoPJ/Reconhecimento-Facial possui um projeto que desenvolvi na faculdade, onde o sistema consegue realizar o reconhecimento Facial e exibir o nome da pessoa reconhecida tudo em tempo real, podendo ser aplicado também em vídeos.
+- **Sistema de Gestão de Clínicas (ILabor)**  
+  Atuando como líder técnico na **ILabor Online**, desenvolvi e implementei melhorias contínuas em um **sistema de gestão de clínicas hospitalares**.
 
-- <b>Desenvolvido em C++</b>, O repositório https://github.com/MCaetanoPJ/Temporizador-Arduino tem um Script que desenvolvi para o arduino Uno R3, que permite inserir um Temporizador que executa internamente e ativa determinada porta digital ou desativa em horário específico, por meio de um contador de milésimo.
+---
 
-- <b>Desenvolvido em Java</b>, O repositório https://github.com/MCaetanoPJ/Algoritmos-de-Ordenacao-com-Imagens possui um projeto que desenvolvi na faculdade para análise de performance usando algoritmos de ordenação Insert Sort, Buble Sort, Select Sort e Quick Sort, ao adicionar imagens no banco de dados e ordenar suas posições dentro do mesmo.
+<h3><b>Projetos Pessoais</b></h3>
+
+- **API REST em C#**: Desenvolvimento de uma WebAPI utilizando **Entity Framework Core** e **LINQ** para fornecer soluções escaláveis e de alto desempenho.  
+  [Link para o repositório](https://github.com/MCaetanoPJ/API_REST)
+
+- **Gerador de Linha Digitável de Boleto Itaú (C#)**: Implementação da lógica de geração de boletos conforme as especificações do Itaú, focando em otimizar cálculos e aumentar a produtividade.  
+  [Link para o repositório](https://github.com/MCaetanoPJ/GeradorLinhaDigitavelBoletoItau)
+
+- **Reconhecimento Facial (Python)**: Implementação de um sistema de reconhecimento facial para identificar indivíduos em tempo real.  
+  [Link para o repositório](https://github.com/MCaetanoPJ/Reconhecimento-Facial)
+
+---
+
+<h3>📊 Estatísticas do GitHub</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCaetanoPJ&show_icons=true&theme=chartreuse-dark)
 
 <hr>
 
 ![Snake animation](https://github.com/MCaetanoPJ/MCaetanoPJ/blob/main/github-MCaetanoPJ-contribution.svg)
 
-<hr>
+---
 
-<!---
-MCaetanoPJ/MCaetanoPJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-//ícone do Linkedin
-<a href="https://www.linkedin.com/in/marcos-caetano/" rel="nofollow"><img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
-
-//
-- O repositório ********* tem um projeto onde realizei a integração windows form <b>C#</b> com um arduino Uno com a intenção de automatizar minha máquina de café, ou seja, todo dia em um horário específico tem um café quentinho pronto.
-
-//Exibir estatística do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCaetanoPJ&show_icons=true&theme=chartreuse-dark)
-
-//Exibir as linguagens usadas em projetos no github
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&count_private=true&theme=chartreuse-dark)
-
-//Exibir a animação da snake
-Link para baixar o GIF especifico para cada usuário: https://platane.github.io/snk/
-![Snake animation](https://github.com/LucasFernandesBrazil/LucasFernandesBrazil/blob/output/github-contribution-grid-snake.svg)
---->
+<!-- 
+Para personalizar o seu README, você pode adicionar mais detalhes ou projetos como desejar. 
+Este template oferece uma visão clara das suas habilidades e conquistas de forma atrativa.
+-->
