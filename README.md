@@ -1,5 +1,6 @@
 <h3>👋 Hello, I’m Marcos</h3>
 
+- 🇧🇷 **Brazilian** with **professional proficiency in English**.
 - 💻 **Senior Software Developer** with nearly 8 years of experience in software development.
 - 🏆 **Backend Specialist** with expertise in **C#**, **.NET Core**, **SQL**, **PostgreSQL**, and **RabbitMQ**.
 - 📘 Currently pursuing a **postgraduate degree in Software Engineering** at **USP**.
@@ -65,6 +66,7 @@ This template provides a clear view of your skills and accomplishments in an att
 
 <h3>👋 Olá, eu sou o Marcos</h3>
 
+- 🇧🇷 **Brasileiro** com **proficiência profissional em inglês**.
 - 💻 **Desenvolvedor Sênior** com quase 8 anos de experiência em desenvolvimento de software.
 - 🏆 **Especialista em Backend** com experiência em **C#**, **.NET Core**, **SQL**, **PostgreSQL** e **RabbitMQ**.
 - 📘 Atualmente cursando **pós-graduação em Engenharia de Software** pela **USP**.
