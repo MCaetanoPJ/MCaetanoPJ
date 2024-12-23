@@ -18,6 +18,24 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcos-ca
 
 <hr>
 
+<h3>💼 My Professional Journey</h3>
+
+With nearly 8 years of experience in software development, I have worked in a variety of challenging and impactful projects across different industries:
+
+<ul>
+  <li><b>2021 - 2022: Sonda IT</b> - Joined **Sonda IT** to lead a high-profile project for the **Ministry of Health of Pernambuco**. Developed a scalable **API** that manages over 9 million users, integrating multiple databases (OracleDB, PostgreSQL, SQL Server). Used **RabbitMQ** and **Hangfire** to manage queues and background jobs, and implemented performance testing using **JMeter**. The project was delivered successfully in 8 months.</li>
+  
+  <li><b>2020 - 2021: Grupo Marajó</b> - Worked on key projects such as the development of an **anti-fraud system** for truck refueling and leading integration with an investment fund (FIDC) to optimize cash flow. Also led the **Risco Sacado** project, focusing on advancing payments to truck drivers to increase company revenue.</li>
+  
+  <li><b>2018 - 2019: Vetor Soluções</b> - Led a **database migration project**, transitioning a legacy **.NET desktop** application to **.NET Core** and migrating from **SQL Server** to **PostgreSQL**. Completed the migration in 6 months, working within an agile **SCRUM** team.</li>
+  
+  <li><b>2016 - 2018: GT1 Tecnologia</b> - Gained hands-on experience with **OutSystems** and **C#** for integration projects. Played a significant role in the development of a **comprehensive clinic management system** called **ILabor**, which later evolved into **ILabor Online**. Responsibilities included system improvements, deployments, database management, bug fixes, and client visits to understand user needs.</li>
+</ul>
+
+My journey has been marked by my commitment to innovation and continuous improvement, tackling complex challenges with a focus on delivering high-quality, scalable solutions.
+
+<hr>
+
 <h3><b>Notable Projects</b></h3>
 
 - **Health Management API (Sonda IT)**  
@@ -53,7 +71,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marcos-ca
 
 <hr>
 
-![Snake animation](https://github.com/MCaetanoPJ/MCaetanoPJ/blob/main/github-MCaetanoPJ-contribution.svg)
+![Snake animation](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
 ---
 
@@ -81,6 +99,24 @@ Fique à vontade para me conectar no [LinkedIn](https://www.linkedin.com/in/marc
 <hr>
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&count_private=true&theme=chartreuse-dark)
+
+<hr>
+
+<h3>💼 Minha Trajetória Profissional</h3>
+
+Com quase 8 anos de experiência em desenvolvimento de software, trabalhei em uma variedade de projetos desafiadores e impactantes em diferentes setores:
+
+<ul>
+  <li><b>2021 - 2022: Sonda IT</b> - Entrei para a **Sonda IT** para liderar um projeto de grande visibilidade para o **Ministério da Saúde de Pernambuco**. Desenvolvi uma **API escalável** que gerencia mais de 9 milhões de usuários, integrando múltiplos bancos de dados (OracleDB, PostgreSQL, SQL Server). Utilizei **RabbitMQ** e **Hangfire** para gerenciar filas e jobs em segundo plano, e implementei testes de desempenho com **JMeter**. O projeto foi entregue com sucesso em 8 meses.</li>
+  
+  <li><b>2020 - 2021: Grupo Marajó</b> - Trabalhei em projetos importantes, como o desenvolvimento de um **sistema anti-fraude** para abastecimento de caminhões e a integração com um fundo de investimentos (FIDC) para otimizar o fluxo de caixa. Também liderei o projeto **Risco Sacado**, focado na antecipação de pagamentos para caminhoneiros, aumentando a receita da empresa.</li>
+  
+  <li><b>2018 - 2019: Vetor Soluções</b> - Liderei um **projeto de migração de banco de dados**, transitando de uma aplicação legada **.NET desktop** para **.NET Core** e migrei de **SQL Server** para **PostgreSQL**. A migração foi concluída em 6 meses, trabalhando em uma equipe ágil com **SCRUM**.</li>
+  
+  <li><b>2016 - 2018: GT1 Tecnologia</b> - Adquiri experiência prática com **OutSystems** e **C#** em projetos de integração. Fui responsável pelo desenvolvimento de um **sistema completo de gestão de clínicas**, o **ILabor**, que mais tarde se transformou na empresa **ILabor Online**. Minhas responsabilidades incluíram aprimoramento do sistema, implantações, gerenciamento de banco de dados, correção de bugs e visitas a clientes para entender melhor suas necessidades.</li>
+</ul>
+
+Minha trajetória tem sido marcada pelo compromisso com a inovação e a melhoria contínua, enfrentando desafios complexos com foco em entregar soluções de alta qualidade e escaláveis.
 
 <hr>
 
@@ -119,7 +155,7 @@ Fique à vontade para me conectar no [LinkedIn](https://www.linkedin.com/in/marc
 
 <hr>
 
-![Snake animation](https://github.com/MCaetanoPJ/MCaetanoPJ/blob/main/github-MCaetanoPJ-contribution.svg)
+![Snake animation](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
 ---
 
