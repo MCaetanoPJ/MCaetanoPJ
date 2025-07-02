@@ -1,7 +1,7 @@
 <h3>👋 Hello, I’m Marcos</h3>
 
 - 🇧🇷 **Brazilian** with **professional proficiency in English**.
-- 💻 **Senior Software Developer** with nearly 8 years of experience in software development.
+- 💻 **Senior Software Developer** with nearly 9 years of experience in software development.
 - 🏆 **Backend Specialist** with expertise in **C#**, **.NET Core**, **SQL**, **PostgreSQL**, and **RabbitMQ**.
 - 📘 Currently pursuing a **postgraduate degree in Software Engineering** at **USP**.
 - 👨‍💻 Currently working in a **Digital Bank**, dealing with complex financial systems.
