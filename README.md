@@ -12,6 +12,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
 # 👋 About Me
 
 Senior Software Engineer with **10+ years of experience** designing and delivering **mission-critical financial systems, government platforms, and high-availability enterprise APIs**.
@@ -24,10 +28,14 @@ My focus goes beyond coding — I design **reliable systems, scalable architectu
 * 🌍 Professional English
 * 📘 Postgraduate in Software Engineering (USP)
 * 🚀 Founder of Hi Tech Desenvolvimento
-
 ---
 
 # 🧠 Core Technologies
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MCaetanoPJ&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MCaetanoPJ&theme=tokyonight"/>
+</p>
 
 ## 🔧 Backend & Architecture
 
@@ -154,43 +162,6 @@ Founder of a **software factory focused on enterprise and financial solutions**.
 * Voter Management Platforms
 * Government Solutions
 * Enterprise APIs
-
----
-
-# 🧪 Personal Projects
-
-### REST API in C#
-
-https://github.com/MCaetanoPJ/API_REST
-
-### Itaú Boleto Generator
-
-https://github.com/MCaetanoPJ/GeradorLinhaDigitavelBoletoItau
-
-### Facial Recognition
-
-https://github.com/MCaetanoPJ/Reconhecimento-Facial
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MCaetanoPJ&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCaetanoPJ&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCaetanoPJ&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
